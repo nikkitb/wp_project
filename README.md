@@ -1,1 +1,1 @@
-init wp_project
+init wordpress project
