@@ -1,0 +1,1 @@
+init wp_project
